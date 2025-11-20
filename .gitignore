@@ -1,0 +1,36 @@
+# Dépendances
+/node_modules
+/.pnp
+.pnp.js
+
+# Production et compilation
+/build
+/dist
+/out
+/target
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Cache et divers
+.eslintcache
+.DS_Store # Fichiers système macOS
+Thumbs.db # Fichiers système Windows
+
+# Configuration d'éditeurs (optionnel, selon vos outils)
+.vscode/ # Pour VS Code (vous pouvez exclure le dossier entier ou uniquement les fichiers workspace/settings spécifiques)
+.idea/ # Pour WebStorm ou autres IDE JetBrains
+*.suo
+*.user
+*.swp # Fichiers temporaires Vim
