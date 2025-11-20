@@ -25,9 +25,9 @@ const Hero = () => {
           >
             Dévelopeur Full Stack
           </h2>
-          <p className="text-lg text-gray-300 mb-8">
+          {/* <p className="text-lg text-gray-300 mb-8">
             Je suis titulaire d'une licence en Genie Logicile.
-          </p>
+          </p> */}
           <div className="flex space-x-4">
             <a
               href="#projects"
