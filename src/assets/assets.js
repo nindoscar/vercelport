@@ -91,7 +91,7 @@ export const projects = [
   },
   {
     title: "Burger ",
-    description: "A productivity application with drag-and-drop functionality and real-time updates.",
+    description: "burger",
     image: projectImg2,
     tech: ["Vue.js", "Firebase", "Tailwind CSS", "WebSockets"],
     icons: [FaVuejs, FaFire, FaCloud , FaDatabase],
