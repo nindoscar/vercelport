@@ -16,9 +16,9 @@ const Skills = () => {
         <h2 className="text-3xl font-bold text-center mb-4">
           Mes <span className="text-purple">Compétences</span>
         </h2>
-        <p className="text-gray-400 text-center max-w-2xl mx-auto mb-16">
+        {/* <p className="text-gray-400 text-center max-w-2xl mx-auto mb-16">
           Lorem ipsum dolor sit amet consectetur adipisicing elit.
-        </p>
+        </p> */}
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
