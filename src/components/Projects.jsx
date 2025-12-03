@@ -33,7 +33,7 @@ const Projects = () => {
             href="https://github.com/nindoscar" 
             className="inline-flex items-center px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition duration-300"
           >
-            <span>Visiter ma page Lindekin </span>
+            <span>Visiter ma page Github </span>
             <FaArrowRight className="ml-2" />
           </a>
         </div>

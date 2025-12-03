@@ -127,7 +127,7 @@ export const projects = [
     title: "Réalisation de nombreux projets en mode privé sur GitHub",
     description: "durant les 6 mois de formation, un projet était développé chaque semaine (du lundi au dimanche), renforçant ainsi ma capacité à respecter les délais, à travailler sous pression et à maintenir une organisation rigoureuse tout au long du processus de développement.",
     image: projectImg6,
-    tech: ["HTML", "CSS"],
+    tech: ["HTML", "CSS", "React", "node.js", "laravel", "php", "vue.js", "next.js", "bash", "javascript", "flask", "python", "wordpress"],
     icons: [FaHtml5,],
     demo: "https://github.com/nindoscar"
   },
