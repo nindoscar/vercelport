@@ -1,12 +1,13 @@
 import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot } from 'react-icons/fa';
 
 import profileImg from '../assets/profile.avif';
-import projectImg1 from '../assets/project1.avif';
-import projectImg2 from '../assets/project2.avif';
+import projectImg1 from '../assets/project200.png';
+import projectImg2 from '../assets/project02.png';
 import projectImg3 from '../assets/project3.avif';
-import projectImg4 from '../assets/project4.avif';
+import projectImg4 from '../assets/project05.png';
 import projectImg5 from '../assets/project5.avif';
 import projectImg6 from '../assets/project6.avif';
+import projectImg7 from '../assets/project100.png';
 import presentation from '../components/presentation';
 
 
@@ -81,21 +82,21 @@ export const skills = [
 
 export const projects = [
   {
-    title: "Free Add",
-    description: "une application web dynamique, entièrement développée sous Laravel,",
+    title: "Yowl – Projet Laravel/MySQL",
+    description: "Création d’une application web permettant de publier des liens provenant de forums et d’échanger via un système de commentaires.",
     image: projectImg1,
-    tech: ["Laravel", "MySql"],
+    tech: ["Laravel", "MySql", "vue.js"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
-    demo: "#",
+    demo: "https://freedomyowl.alwaysdata.net/",
     code: "#",
   },
   {
-    title: "Burger ",
-    description: "burger",
+    title: "Institut Giovani Bitti",
+    description: "Site vitrine de l'IGB réalisé pendant la formation we.code en une semaine",
     image: projectImg2,
-    tech: ["Vue.js", "Firebase", "Tailwind CSS", "WebSockets"],
+    tech: ["Wordpress"],
     icons: [FaVuejs, FaFire, FaCloud , FaDatabase],
-    demo: "#",
+    demo: "https://igb-refonte.online/",
     code: "#",
   },
   {
@@ -106,7 +107,7 @@ export const projects = [
     icons: [FaReact,],
     demo: "#home",
     code: "#",
-  },
+  }
 ];
 
 
