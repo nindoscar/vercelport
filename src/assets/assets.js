@@ -1,13 +1,13 @@
-import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot } from 'react-icons/fa';
+import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot, FaHtml5, FaWordpress } from 'react-icons/fa';
 
 import profileImg from '../assets/profile.avif';
 import projectImg1 from '../assets/project200.png';
 import projectImg2 from '../assets/project02.png';
 import projectImg3 from '../assets/project3.avif';
 import projectImg4 from '../assets/project05.png';
-import projectImg5 from '../assets/project5.avif';
-import projectImg6 from '../assets/project6.avif';
-import projectImg7 from '../assets/project100.png';
+import projectImg5 from '../assets/project0005.png';
+import projectImg6 from '../assets/project10.png';
+import projectImg7 from '../assets/project222.png';
 import presentation from '../components/presentation';
 
 
@@ -101,7 +101,7 @@ export const projects = [
     description: "Site vitrine de l'IGB réalisé pendant la formation we.code en une semaine",
     image: projectImg2,
     tech: ["Wordpress"],
-    icons: [FaVuejs, FaFire, FaCloud , FaDatabase],
+    icons: [FaWordpress],
     demo: "https://igb-refonte.online/",
     code: "#",
   },
@@ -113,7 +113,33 @@ export const projects = [
     icons: [FaReact,],
     demo: "#home",
     code: "#",
-  }
+  },
+  {
+    title: "Integration ",
+    description: "réalisation complète d’une interface responsive en HTML et CSS, respect des maquettes, optimisation de la structure et bonnes pratiques front-end.",
+    image: projectImg5,
+    tech: ["HTML", "CSS"],
+    icons: [FaHtml5,],
+    demo: "https://integration-indol-chi.vercel.app/",
+    code: "#",
+  },
+   {
+    title: "Réalisation de nombreux projets en mode privé sur GitHub",
+    description: "durant les 6 mois de formation, un projet était développé chaque semaine (du lundi au dimanche), renforçant ainsi ma capacité à respecter les délais, à travailler sous pression et à maintenir une organisation rigoureuse tout au long du processus de développement.",
+    image: projectImg6,
+    tech: ["HTML", "CSS"],
+    icons: [FaHtml5,],
+    demo: "https://github.com/nindoscar"
+  },
+  {
+    title: "contributions GitHub sur les 6 derniers mois",
+    description: "participation active à de nombreux projets privés et personnels, démontrant une régularité dans le développement, une bonne maîtrise de Git/GitHub et un engagement constant dans l’amélioration de mes compétences techniques.",
+    image: projectImg7,
+    tech: ["HTML", "CSS"],
+    icons: [FaHtml5,],
+    demo: "https://github.com/nindoscar",
+    code: "#",
+  },
 ];
 
 
@@ -142,7 +168,6 @@ export const workData = [
       "Mise en place d’une organisation logique des documents pour optimiser leur recherche et leur gestion, avec numérisation et archivage électronique,Organisation et classement des fichiers dans des stockages locaux ou cloud, dans le cadre d’un projet réalisé en WinDev.",
     color: "blue"
   }
-
 ];
   export const presentations = [
     {
