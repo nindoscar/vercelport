@@ -34,6 +34,12 @@ export const aboutInfo = [
       title: 'Code épuré',
       description: "J'écris du code facile à maintenir et efficace en suivant les meilleures pratiques et les modèles modernes.",
       color: 'text-blue'
+    },   
+    {
+      icon: FaCode,
+      title: 'GitHub et systèmes Linux',
+      description: "gestion de versions, collaboration sur des projets, utilisation avancée du terminal, configuration du système, gestion des services et résolution de problèmes.",
+      color: 'text-blue'
     }
   ];
 

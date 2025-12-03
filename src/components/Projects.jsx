@@ -33,7 +33,7 @@ const Projects = () => {
             href="https://github.com/nindoscar" 
             className="inline-flex items-center px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition duration-300"
           >
-            <span>Voir la fréquence des projets realisé à EPITECH</span>
+            <span>Visiter ma page Lindekin </span>
             <FaArrowRight className="ml-2" />
           </a>
         </div>
