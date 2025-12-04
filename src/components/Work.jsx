@@ -19,7 +19,7 @@ const Work = () => {
           <span className="text-purple"> Experience</span>
         </h2>
         <p className="text-gray-400 text-center max-w-2xl mx-auto mb-16">
-          Mes pexperience professionelles{" "}
+          Mes pexperiences professionelles{" "}
         </p>
         <div className="max-w-3xl mx-auto">
           <div className="space-y-12">
