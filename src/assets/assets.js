@@ -38,7 +38,7 @@ export const aboutInfo = [
     {
       icon: FaCode,
       title: 'GitHub et systèmes Linux',
-      description: "gestion de versions, collaboration sur des projets, utilisation avancée du terminal, configuration du système, gestion des services et résolution de problèmes.",
+      description: "Gestion de versions, collaboration sur des projets, utilisation avancée du terminal, configuration du système, gestion des services et résolution de problèmes.",
       color: 'text-blue'
     }
   ];
@@ -49,7 +49,7 @@ export const skills = [
   {
     title: 'Développeur Front-end ',
     icon: FaReact,
-    description: "Développement front-end Création d'interfaces utilisateur réactives et interactives à l'aide de frameworks modernes.",
+    description: "Développement front-end : Création d'interfaces utilisateur réactives et interactives à l'aide de frameworks modernes.",
     tags: ['React', 'Vue.js', 'TypeScript']
   },
   {
@@ -91,7 +91,7 @@ export const projects = [
     title: "Yowl – Projet Laravel/MySQL",
     description: "Création d’une application web permettant de publier des liens provenant de forums et d’échanger via un système de commentaires.",
     image: projectImg1,
-    tech: ["Laravel", "MySql", "vue.js"],
+    tech: ["Laravel", "MySQL", "vue.js"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
     demo: "https://freedomyowl.alwaysdata.net/",
     code: "#",
@@ -107,7 +107,7 @@ export const projects = [
   },
   {
     title: "Portfolio ",
-    description: "Ce site web a été entièrement conçu et développé en ReactJS afin d'assurer une expérience utilisateur (UX) rapide et fluid",
+    description: "Ce site web a été entièrement conçu et développé en ReactJS afin d'assurer une expérience utilisateur (UX) rapide et fluide",
     image: projectImg4,
     tech: ["React.Js"],
     icons: [FaReact,],
@@ -115,8 +115,8 @@ export const projects = [
     code: "#",
   },
   {
-    title: "Integration ",
-    description: "réalisation complète d’une interface responsive en HTML et CSS, respect des maquettes, optimisation de la structure et bonnes pratiques front-end.",
+    title: "Intégration ",
+    description: "Réalisation complète d’une interface responsive en HTML et CSS, respect des maquettes, optimisation de la structure et bonnes pratiques front-end.",
     image: projectImg5,
     tech: ["HTML", "CSS"],
     icons: [FaHtml5,],
@@ -133,7 +133,7 @@ export const projects = [
   },
   {
     title: "contributions GitHub sur les 6 derniers mois",
-    description: "participation active à de nombreux projets privés et personnels, démontrant une régularité dans le développement, une bonne maîtrise de Git/GitHub et un engagement constant dans l’amélioration de mes compétences techniques.",
+    description: "Participation active à de nombreux projets privés et personnels, démontrant une régularité dans le développement, une bonne maîtrise de Git/GitHub et un engagement constant dans l’amélioration de mes compétences techniques.",
     image: projectImg7,
     tech: ["HTML", "CSS"],
     icons: [FaHtml5,],
@@ -145,7 +145,7 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Dévoloppeur Full Stack junior",
+    role: "Développeur Full Stack junior",
     company: "We.code ",
     duration: "2025",
     description:
@@ -161,11 +161,11 @@ export const workData = [
     color: "pink"
   },
   {
-    role: "Stageaire",
+    role: "Stagiaire",
     company: "Risque Informatique",
     duration: "2016 - 2017",
     description:
-      "Mise en place d’une organisation logique des documents pour optimiser leur recherche et leur gestion, avec numérisation et archivage électronique,Organisation et classement des fichiers dans des stockages locaux ou cloud, dans le cadre d’un projet réalisé en WinDev.",
+      "Mise en place d’une organisation logique des documents pour optimiser leur recherche et leur gestion, avec numérisation et archivage électronique . Organisation et classement des fichiers dans des stockages locaux ou cloud, dans le cadre d’un projet réalisé en WinDev.",
     color: "blue"
   }
 ];

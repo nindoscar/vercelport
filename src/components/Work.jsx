@@ -16,7 +16,7 @@ const Work = () => {
       <div className="container mx-auto  text-center px-6 mb-4">
         <h2>
           Mes
-          <span className="text-purple"> Experience</span>
+          <span className="text-purple"> Experiences</span>
         </h2>
         <p className="text-gray-400 text-center max-w-2xl mx-auto mb-16">
           Mes pexperiences professionelles{" "}

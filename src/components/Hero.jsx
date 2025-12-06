@@ -40,7 +40,7 @@ const Hero = () => {
               download="Oscar_NINDEBAHI_CV"
               className="px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition decoration-purple-300"
             >
-              Télécharge mon CV
+              Télécharger mon CV
             </a>
             {/* <a
               href="#contact"

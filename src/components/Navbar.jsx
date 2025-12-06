@@ -34,7 +34,7 @@ const Navbar = () => {
             href="#skills"
             className="relative text-white/80 transition duration-300 hover:text-purple group"
           >
-            <span>Competences</span>
+            <span>Compétences</span>
             <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-purple transition-all duration-300 group-hover:w-full"></span>
           </a>
           <a
@@ -48,7 +48,7 @@ const Navbar = () => {
             href="#experience"
             className="relative text-white/80 transition duration-300 hover:text-purple group"
           >
-            <span>Experiences</span>
+            <span>Expériences</span>
             <span className="absolute left-0 -bottom-1 w-0 h-0.5 bg-purple transition-all duration-300 group-hover:w-full"></span>
           </a>
           <a

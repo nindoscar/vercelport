@@ -18,7 +18,7 @@ const Contact = () => {
         </h2>
         <p className="text-gray-400 text-center max-w-2xl mx-auto mb-16">
           {/* je suis disponible au 0102987587/0749316014 */}
-          <h1>Je suis disponible pour tous projets dans le donaine de l'informatique </h1>
+          <h1>Je suis disponible pour tout projet dans le domaine de l'informatique </h1>
         </p>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 max-w-5xl mx-auto">
           {/* contactez-moi */}
@@ -91,7 +91,7 @@ const Contact = () => {
               </div>
             </div>
             <div className="pt-4">
-              <h3 className="text-lg font-semibold mb-4">Suivez moi</h3>
+              <h3 className="text-lg font-semibold mb-4">Suivez-moi</h3>
               <div className="flex space-x-4">
                 <a
                   href="https://github.com/nindoscar" 
