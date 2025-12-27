@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 // import profileImg from "../assets/profile.avif";
 import { aboutInfo } from "../assets/assets";
 import { div } from "framer-motion/client";
-import profileImg from "../assets/profile02.jpeg";
+import profileImg from "../assets/profile02.jpg";
 import presentation from "./presentation";
 
 const About = () => {
